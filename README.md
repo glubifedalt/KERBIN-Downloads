@@ -18,6 +18,7 @@ Account settings contain setup and installation tutorials. Keep the host compute
 
 Designed for one or two viewers. Experimental NVIDIA AI enhancement is optional, needs a separate runtime and suitable hardware, and falls back to ordinary playback when it cannot keep up. Provider or network availability can still interrupt playback.
 
-This repository distributes release builds. Packages include their license notices; checksums accompany releases. The application source repository and its development history remain private. A matching release source snapshot is included for the application builds.
+This repository distributes release builds. Packages include their license notices; checksums accompany releases. The application source repository and its development history remain private. Server bundles include their application scripts and license notices.
 
 An unofficial fan project, not affiliated with KSP, TMDB, 111477 or the device platforms.
+
