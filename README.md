@@ -2,6 +2,8 @@
 
 **AI-generated project, built with human direction.**
 
+[Visit the Kerbin showcase](https://kerbin-showcase.creamrhino17.chatgpt.site) for downloads and installation guides.
+
 Your own streaming orbit: a Kerbin-inspired client and host for 111477 streams, using your own TMDB key. Independent of Jellyfin.
 
 ## Downloads
@@ -21,4 +23,5 @@ Designed for one or two viewers. Experimental NVIDIA AI enhancement is optional,
 This repository distributes release builds. Packages include their license notices; checksums accompany releases. The application source repository and its development history remain private. Server bundles include their application scripts and license notices.
 
 An unofficial fan project, not affiliated with KSP, TMDB, 111477 or the device platforms.
+
 
